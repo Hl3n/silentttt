@@ -445,7 +445,7 @@ topbarLine.Parent = topbar
 local windowName = Instance.new("TextLabel")
 windowName.Name = "WindowName"
 windowName.Font = Enum.Font.GothamBold
-windowName.Text = Info.Text
+windowName.Text = '<font color="rgb(0, 255, 0)">$</font> protogen<font color="rgb(166, 0, 255)">.gay</font> '
 windowName.TextSize = 13
 windowName.TextTransparency = 0.1
 windowName.TextXAlignment = Enum.TextXAlignment.Left
